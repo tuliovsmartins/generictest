@@ -1,0 +1,4 @@
+br\com\generictests\Steps\Steps.class
+br\com\generictests\Pages\Pages.class
+br\com\generictests\Util\Util.class
+br\com\generictests\SiteAccess.class
